@@ -61,3 +61,7 @@ poetry.lock
 # ingorne data folder's content
 data/*
 !data/.gitkeep
+
+# ingorne db folder's content
+db/*
+!db/.gitkeep
